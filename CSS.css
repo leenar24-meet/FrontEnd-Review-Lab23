@@ -1,8 +1,11 @@
 body {
-    style="background-color: DarkGrey;
-p1 {
-  font-family: "Times New Roman", Times, serif;
+    background-color: DarkGrey;
+    
 }
-}
+#fontchange{
+    color: darkred;
+    -webkit-text-stroke : 1px white;
 
 }
+.change {  color: darkred;
+    -webkit-text-stroke : 1px white; }
